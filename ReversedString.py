@@ -13,3 +13,7 @@ def revert_str_2(some_str: str) -> str:
 some_string = input("Введите строку: ")
 print(revert_str_1(some_string))
 print(revert_str_2(some_string))
+
+# String someStr = "Hello, world!";
+# String reversed = new StringBuilder(someStr).reverse().toString();
+# System.out.println(reversed);
